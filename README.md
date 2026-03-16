@@ -47,12 +47,6 @@ This project demonstrates how Power BI can be used to monitor and improve supply
 
 ---
 
-## 🎥 Full Video Tutorial
-
-📺 **Watch the Full Tutorial Here:**  
-(Add your YouTube or tutorial link here)
-
----
 
 ## 🛠 Getting Started
 
